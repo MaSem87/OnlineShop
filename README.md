@@ -16,19 +16,21 @@ The TechMax Online Shop is a fictional e-commerce store developed to showcase th
 - Administrator access for product, order, and user management.
 
 
-## Menu page                                                                                                  ## Shopping cart                                     
-![Menü](https://github.com/MaSem87/OnlineShop/assets/126175585/3676155e-414b-4c8f-98b9-c6bad5af8230)          ![Warenkorb](https://github.com/MaSem87/OnlineShop/assets/126175585/4ebec219-cb4c-4696-8b2d-b4d34f89c2a3) 
 
+## Menu page                                                                                                                                    
+![Menü](https://github.com/MaSem87/OnlineShop/assets/126175585/3676155e-414b-4c8f-98b9-c6bad5af8230)          
+
+
+## Shopping cart    
+![Warenkorb](https://github.com/MaSem87/OnlineShop/assets/126175585/4ebec219-cb4c-4696-8b2d-b4d34f89c2a3) 
 
 
 ## Order summary
 ![Bestellübersicht](https://github.com/MaSem87/OnlineShop/assets/126175585/2adce2d1-d706-4748-a5ea-ba5f13a8bd9f)
 
+
 ## Paypal
 ![Paypal](https://github.com/MaSem87/OnlineShop/assets/126175585/e5862b75-0147-460e-a5c5-e9db9178861e)
-
-
-
 
 
 
