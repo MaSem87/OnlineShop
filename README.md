@@ -1,4 +1,4 @@
-# TechMax Online Shop
+![logo](https://github.com/MaSem87/OnlineShop/assets/126175585/2feda41d-b527-4c07-9a8c-74ee357d1a7a) 
 
 The TechMax Online Shop is a fictional e-commerce store developed to showcase the implementation of a complete online shopping platform. This project employs Python/Django for the backend and a combination of JavaScript, CSS, HTML, and Bootstrap for the frontend.
 
