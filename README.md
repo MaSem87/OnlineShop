@@ -18,11 +18,13 @@ The TechMax Online Shop is a fictional e-commerce store developed to showcase th
 
 
 ## Menu page                                                                                                                                    
-![Menü](https://github.com/MaSem87/OnlineShop/assets/126175585/3676155e-414b-4c8f-98b9-c6bad5af8230)          
+![Menü](https://github.com/MaSem87/OnlineShop/assets/126175585/39873b01-b59a-4597-89c8-bc8426e6026f)
+        
 
 
 ## Shopping cart    
-![Warenkorb](https://github.com/MaSem87/OnlineShop/assets/126175585/4ebec219-cb4c-4696-8b2d-b4d34f89c2a3) 
+![Warenkorb](https://github.com/MaSem87/OnlineShop/assets/126175585/0e8e884b-1128-47fb-90cc-fb6904d178ad)
+
 
 
 ## Order summary
